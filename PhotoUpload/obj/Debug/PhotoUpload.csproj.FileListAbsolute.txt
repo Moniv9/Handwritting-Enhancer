@@ -1,0 +1,7 @@
+D:\Programs\PhotoUpload\PhotoUpload\bin\PhotoUpload.dll
+D:\Programs\PhotoUpload\PhotoUpload\bin\PhotoUpload.pdb
+D:\Programs\PhotoUpload\PhotoUpload\bin\EntityFramework.dll
+D:\Programs\PhotoUpload\PhotoUpload\bin\EntityFramework.xml
+D:\Programs\PhotoUpload\PhotoUpload\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\PhotoUpload\PhotoUpload\obj\Debug\PhotoUpload.dll
+D:\Programs\PhotoUpload\PhotoUpload\obj\Debug\PhotoUpload.pdb
